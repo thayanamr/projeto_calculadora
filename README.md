@@ -5,14 +5,11 @@
 <h1 align="center">Calculadora</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/react-framework-blue?logo=react"/>
-<img src="https://img.shields.io/badge/vercel-deploy-blue?logo=vercel
-"/>
-<img src="https://img.shields.io/github/last-commit/thayanamr/projeto_calculadora
-">
-  <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-deploy"/>
-
- <img src="https://img.shields.io/badge/created_by-Thayana_Machado-%23c999af" >
+<img src="https://img.shields.io/badge/react-framework-blue?logo=react"/>
+<img src="https://img.shields.io/badge/vercel-deploy-blue?logo=vercel"/>
+<img src="https://img.shields.io/github/last-commit/thayanamr/projeto_calculadora">
+<img src="https://img.shields.io/badge/status-conclu%C3%ADdo-deploy"/>
+<img src="https://img.shields.io/badge/created_by-Thayana_Machado-%23c999af" >
 
 </p>
 
@@ -25,8 +22,6 @@
 → [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
 → [Como abrir o projeto para edição e teste](#como-rodar-a-aplicação-arrow_forward)
-
-→ [Linguagens, dependencias e libs utilizadas](#linguagens-dependencias-e-libs utilizadas-books)
 
 ### Descrição do projeto
 
@@ -50,7 +45,7 @@
 
 ### Como rodar a aplicação :dash:
 
-#####Pré-requisitos
+####Pré-requisitos
 
 - :warning: [Node](https://nodejs.org/en/download/)
 
@@ -71,11 +66,5 @@ E então é só executar o projeto
 ```
 npm start
 ```
-
-###Tarefas para o futuro
-
-:memo: Responsividade
-
-:memo: Mudança para calculadora científica
 
 Copyright :copyright: 2023 - Calculadora
