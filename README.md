@@ -45,7 +45,7 @@
 
 ### Como rodar a aplicação :dash:
 
-####Pré-requisitos
+Pré-requisitos:
 
 - :warning: [Node](https://nodejs.org/en/download/)
 
