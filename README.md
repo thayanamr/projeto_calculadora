@@ -21,7 +21,7 @@
 
 → [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-→ [Como abrir o projeto para edição e teste](#como-rodar-a-aplicação-arrow_forward)
+→ [Como abrir o projeto para edição e teste](#como-executar-arrow_forward)
 
 ### Descrição do projeto
 
@@ -43,7 +43,7 @@
 
 > Você consegue utilizar a calculadora [clicando aqui](https://projeto-calculadora-nine.vercel.app/).
 
-### Como rodar a aplicação :dash:
+### Como executar :dash:
 
 Pré-requisitos:
 
@@ -52,7 +52,7 @@ Pré-requisitos:
 No terminal, clone o projeto:
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/thayanamr/projeto_calculadora.git
 ```
 
 Apos isso instale as dependências e bibliotecas:
