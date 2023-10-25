@@ -29,11 +29,11 @@
 
 :heavy_check_mark: Botão de alterar o valor entre positivo e negativo.
 
-### Deploy da Aplicação :arrow_forward:
+### Deploy da Aplicação 
 
 > Você consegue utilizar a calculadora [clicando aqui](https://projeto-calculadora-nine.vercel.app/).
 
-### Como executar :dash:
+### Como executar
 
 Pré-requisitos:
 
