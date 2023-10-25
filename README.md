@@ -13,16 +13,6 @@
 
 </p>
 
-### Tópicos
-
-→ [Descrição do projeto](#descrição-do-projeto)
-
-→ [Funcionalidades](#funcionalidades)
-
-→ [Deploy da Aplicação](#deploy-da-aplicação-dash)
-
-→ [Como abrir o projeto para edição e teste](#como-executar-arrow_forward)
-
 ### Descrição do projeto
 
 <p align="justify">
